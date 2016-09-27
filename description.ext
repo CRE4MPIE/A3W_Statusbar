@@ -1,0 +1,5 @@
+class RscTitles
+{
+	#include "addons\statusBar\statusBar.hpp"
+	
+};
